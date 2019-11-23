@@ -1,5 +1,6 @@
 # Stock-analysis
 Module 2 Respository on Stock Analysis
+
 Added macro enabled spreadsheet with first stock analysis completed. The macros include multiple Nested Loops. The program must run through 3000 rows of data multiple times because of the nested loops. If the rows were to be increased with more stocks. the computing time might increase significantly due to the NESTED Loops. The Challenge 2 was to rewrite the code to improve efficiency. 
 
 A second excel file labeled Challenge_2_green_stocks_final was created with completely rewritten code. See comments below under Challenge 2
