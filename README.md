@@ -1,11 +1,13 @@
 # Stock-analysis
 Module 2 Respository on Stock Analysis
 
+## Green_Stocks Excel file is for work done during Module 2 Lessons. 
+
 Added macro enabled spreadsheet with first stock analysis completed. The macros include multiple Nested Loops. The program must run through 3000 rows of data multiple times because of the nested loops. If the rows were to be increased with more stocks. the computing time might increase significantly due to the NESTED Loops. The Challenge 2 was to rewrite the code to improve efficiency. 
 
-A second excel file labeled Challenge_2_green_stocks_final was created with completely rewritten code. See comments below under Challenge 2
+## Challenge_2_green_stocks_final file contains Challenge 2 Macros. 
 
-PseudoCode For Modification of Macro to AllStockAnalysis
+## PseudoCode For Modification of Macro to AllStockAnalysis
 
 Sub AllStocksAnalysis()
    '1) Format the output sheet on All Stocks Analysis worksheet
@@ -31,10 +33,10 @@ Sub AllStocksAnalysis()
    Next i
 
 End Sub
-# DQAnalysis 
+## DQAnalysis 
 This Macro remains the same from the module lessons. It performs analsysis for a single stock. 
 
-# ClearWorksheet
+## ClearWorksheet
 This Macro clears all cells in the worksheet. A run Button was added to initiate as well as a Run Button to run the AllStocksAnalysis. 
 
 # Challenge 2 
